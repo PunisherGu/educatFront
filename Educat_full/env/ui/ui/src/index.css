@@ -1,0 +1,173 @@
+
+@font-face{
+	
+	font-family: r-social;
+	src: url('rsocial.otf');
+	
+}
+
+body {
+  border-width: 0px 0 0 0px;
+  margin: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #efefef ;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+hr {
+  color: black;
+  background-color: black;
+  height: 1px;
+  width: 80%;
+  
+}
+
+.teste{
+  background-color: white;
+}
+
+ .teste h3{
+  position: relative;
+    color: #0fd5ef;
+    top: 33px;
+}
+
+.teste p{
+  margin-top: 7%;
+    color: darkgrey;
+
+}
+
+.pag{
+  width: 94%;
+  text-align: -webkit-auto;
+  margin-left: 1%;
+  font-weight: 500;
+  color: #5f5d5d;
+  padding: 2%;
+  margin-top: 6%;
+
+}
+
+.faq{
+  margin-top: 3%;
+}
+
+.faq h3{
+  color: #1f8dde;;
+  margin-left: 2%;
+}
+
+.faq p{
+  position: relative;
+  margin-left: 2%;
+  top: 21px;
+}
+
+.faq hr {
+  color: black;
+  background-color: black;
+  height: 1px;
+  width: 93%;
+  margin-top: -10px;
+}
+
+.contato{
+
+}
+
+.aj h4{
+  color: #1f8dde;
+}
+
+.aj hr{
+  margin-top: -29px;
+  width: 96%;
+  margin-left: 4%;
+}
+.contato h4{
+  color: #1f8dde;
+}
+.contato p{
+  margin-top: 4%;
+}
+
+.contato hr{
+  margin-top: -29px;
+  width: 80%;
+  margin-left: 20%;
+}
+
+.contato span{
+  font-family: r-social;
+  font-size: 35px;
+  font-weight: 100;
+  top: 3px;
+  position: relative;
+}
+
+.contato h5{
+  font-size: 23px;
+  font-weight: 400;
+}
+
+form{
+  margin-top: 3%;
+}
+
+.fm{
+  margin-top: 3%;
+  width: 533px;
+  padding: 10px;
+
+}
+
+.fm-2{
+  margin-top: 3%;
+  width: 533px;
+  padding: 10px;
+  margin-left: 13%;
+}
+
+.formgroup{
+width: 50%;
+
+}
+
+.formgroup-2{
+  float: right;
+    margin-top: -115px;
+    width: 50%;
+}
+
+textarea{
+  margin-top: 2%;
+  width: 100%;
+  height: 232px;
+}
+
+.btn{
+  color: white;
+    background-color: #608dde;
+    width: 140px;
+    padding: 11px;
+    border-radius: 10px;
+    float: right;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#esp{
+  margin-top: 8%;
+  
+}
